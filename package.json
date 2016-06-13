@@ -1,0 +1,16 @@
+{
+  "name": "js_music_store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "record_constructor.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "lodash": "^4.13.1",
+    "mocha": "^2.5.3"
+  }
+}
